@@ -9,13 +9,12 @@ body{
     width: 100%;
     height: 100%;
     padding: 10px 50px 50px 50px;
-    background-image: url("../assets/bg1.png");
+    background-image: linear-gradient(rgba(0, 0, 10, 0.648),rgba(0, 10, 10, 0.644)),url("../assets/bg1.png");
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
     background-position: center;
-    backdrop-filter: blur(2.5px);
-    background-blend-mode: darken;
+   
 }
 
 nav{

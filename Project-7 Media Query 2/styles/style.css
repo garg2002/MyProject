@@ -1,0 +1,155 @@
+*{
+    margin: 3px;
+    padding: 0;
+}
+body{
+    background-color: #111827;
+}
+nav{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav div{
+    display: none;
+}
+.home{
+    padding: 5px 10px;
+    background: rgb(100, 100, 224);
+    border-radius: 15px;
+}
+.row-1{
+    display: flex;
+    gap: 20px;
+    color: white;
+}
+.row-2{
+    color: white;
+}
+.row-2 h3{
+    color: rgb(205, 225, 50);
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.main h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 0%;
+}
+.images{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    justify-content: center;  
+}
+p{
+    text-align: center;
+    color: white;
+    margin: 2px;
+}
+.images img{
+    width: 150px;
+    height: 115px;
+
+}
+.main .underline{
+    height: 8px;
+    width: 135px;
+    background-color: blue;
+    border-radius: 20px;
+    margin: 0px auto 10px auto;
+    
+}
+.main ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.main ul li img{
+    width: 20px;
+    height: 20px;
+}
+/* media query */
+@media  screen and (max-width: 576px) {
+    *{
+        margin-top: 2px;
+    }
+    nav{
+        display: flex;
+        align-items: left;
+        justify-content: left;
+    }
+    nav div{
+        display: block;    
+    }
+    nav ul{
+        display: none;
+    }
+    section{
+        display: block;
+    }
+    .col-2{
+        text-align: center;
+    }
+    section .col-2 img{
+        width: 150px;
+        height: 120px;
+    }
+    .row-1 {
+        display: block;
+        text-align: center;
+    }
+    .col-1 .row-1 h3{
+        display: block;
+        text-align: center;
+        color: white;
+    }
+    .row-2{
+        text-align: center;
+        color: white;
+    }
+    .row-2 h3{
+        color: rgb(205, 225, 50);
+    }
+    .images{
+        display: grid;
+        grid-template-columns: auto;
+        gap: 10px;
+        justify-content: center;  
+    }
+    .images img{
+        width: 50px;
+        height: 40px;
+    
+    }
+    .main h1{
+        font-size: 17px;
+        
+    }
+    p{
+        font-size: 13px;
+        margin: 0;
+        
+    }
+    .main ul{
+        gap: 1px;
+        margin-top: 0%;
+    }
+
+}
