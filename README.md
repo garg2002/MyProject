@@ -15,8 +15,12 @@
 
                                                                    Project-6 Output
 ![output6](https://user-images.githubusercontent.com/113013930/224554938-7802ceaf-6810-4e73-941c-7c70d84a0ab0.png)
+![output6 1](https://user-images.githubusercontent.com/113013930/224556098-307ebb6d-4238-4bc4-b61b-d2b7a488abea.png)
+![output6 2](https://user-images.githubusercontent.com/113013930/224556112-51c7b4cc-2b1b-4f66-b551-3204f7a4b2d7.png)
+![output6 3](https://user-images.githubusercontent.com/113013930/224556120-88030fff-2599-4181-9298-e33cc31b9dad.png)
+![o](https://user-images.githubusercontent.com/113013930/224556127-e6cf65c0-0caa-4fb1-afdb-d619bdad7a8f.png)
 
                                                                    Project-7 Output
 ![output7](https://user-images.githubusercontent.com/113013930/224554959-e14d29bc-f060-45e1-ad33-83393bb01b0a.png)
-
+![output7 1](https://user-images.githubusercontent.com/113013930/224556135-0f8949d3-6d3c-4c68-ac94-bb72949f2dab.png)
 
