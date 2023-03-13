@@ -1,26 +1,82 @@
- ## project-1                                                                
-![output1](https://user-images.githubusercontent.com/113013930/224553315-59651492-3ed6-4f15-8b3e-2e98c82f1f3e.png)
+# [Project-1](https://github.com/Veersen2001/Web-Projects/tree/master/Project-1)
+# [Project Live Link](https://relaxed-faloodeh-5dc5f2.netlify.app)
+## Technology
+- HTML
+- CSS
+## Project Image
+![Restaurant](https://user-images.githubusercontent.com/113298266/224339709-9ee1c888-77bd-4c99-92b0-2d3dc6dc77fa.png)
 
-                                                                  Project-2 Output
-![output2](https://user-images.githubusercontent.com/113013930/224554126-12250c9d-c161-4589-9d54-3416a5f80a49.png)
 
-                                                                  Project-3 Output
-![output3](https://user-images.githubusercontent.com/113013930/224554296-5413e806-45a3-41ff-8b37-20a1ce9d04ed.png)
+# [Project-2](https://github.com/Veersen2001/Web-Projects/tree/master/Project-2)
+# [Project Live Link]()
+## Technology
+- HTML
+- CSS
+## Project Image
+![project2](https://user-images.githubusercontent.com/113298266/224341965-627adad9-53ff-4ba1-b5ea-004a18490133.png)
 
-                                                                  Project-4 Output
-![output4](https://user-images.githubusercontent.com/113013930/224554886-084237a3-1793-4c00-9059-feafe3484fb3.png)
 
-                                                                   Project-5 Output
-![output5](https://user-images.githubusercontent.com/113013930/224554911-8f4ac135-7d2c-437a-a5b4-516750782904.png)
+# [Project-3](https://github.com/Veersen2001/Web-Projects/tree/master/Project-3)
+# [Project Live Link]
+## Technology
+- HTML
+- CSS
+## Project Image
+![Screenshot 2023-03-10 201548](https://user-images.githubusercontent.com/113298266/224345644-68d28482-f871-4d47-9ea6-8c51d1b0f6f5.png)
 
-                                                                   Project-6 Output
-![output6](https://user-images.githubusercontent.com/113013930/224554938-7802ceaf-6810-4e73-941c-7c70d84a0ab0.png)
-![output6 1](https://user-images.githubusercontent.com/113013930/224556098-307ebb6d-4238-4bc4-b61b-d2b7a488abea.png)
-![output6 2](https://user-images.githubusercontent.com/113013930/224556112-51c7b4cc-2b1b-4f66-b551-3204f7a4b2d7.png)
-![output6 3](https://user-images.githubusercontent.com/113013930/224556120-88030fff-2599-4181-9298-e33cc31b9dad.png)
-![o](https://user-images.githubusercontent.com/113013930/224556127-e6cf65c0-0caa-4fb1-afdb-d619bdad7a8f.png)
 
-                                                                   Project-7 Output
-![output7](https://user-images.githubusercontent.com/113013930/224554959-e14d29bc-f060-45e1-ad33-83393bb01b0a.png)
-![output7 1](https://user-images.githubusercontent.com/113013930/224556135-0f8949d3-6d3c-4c68-ac94-bb72949f2dab.png)
+
+# [Project-4](https://github.com/Veersen2001/Web-Projects/tree/master/Project-4)
+# [Project Live Link](https://pw-project-4-feb.netlify.app)
+## Technology
+- HTML
+- CSS
+## Project Image
+![project3](https://user-images.githubusercontent.com/113298266/224343244-1e73d276-ec7d-458e-a608-e63d891c46e8.png)
+
+
+# [Project-5-Media Query](https://github.com/Veersen2001/Web-Projects/tree/master/Project-5)
+# [Project Live Link]()
+## Technology
+- HTML
+- CSS
+## Project Image
+![Screenshot 2023-03-10 201950](https://user-images.githubusercontent.com/113298266/224347187-253f6079-1531-433b-9757-52c124524fff.png)
+## Small Device
+![media](https://user-images.githubusercontent.com/113298266/224350463-c4f98d6e-5f6a-4954-9bd9-397a623a96d7.png)
+
+
+# [Project-6](https://github.com/Veersen2001/Web-Projects/tree/master/Project-6)
+## Technology
+- HTML
+- CSS
+## Project Image
+## Beats
+# [Project Live Link]()
+![beats](https://user-images.githubusercontent.com/113298266/224351105-666b2162-f29a-4f34-b982-5c96032426d1.png)
+
+## Multi-page
+# [Project Live Link]()
+![multi-1](https://user-images.githubusercontent.com/113298266/224351407-31bd8885-e4fe-4c16-940a-fcb64e02e309.png)
+![multi-2](https://user-images.githubusercontent.com/113298266/224351693-d0b50c9b-5a6c-4a0d-a9c8-3ae2290929e3.png)
+
+## Real Estate
+# [Project Live Link]()
+
+![house-1](https://user-images.githubusercontent.com/113298266/224352021-573feaba-e3ed-4945-a220-0ac3099a553b.png)
+![house-3](https://user-images.githubusercontent.com/113298266/224352095-d06125ab-eac3-46e2-bcae-3c25a89d88cb.png)
+
+
+# [Project-7](https://github.com/Veersen2001/Web-Projects/tree/master/Project-7)
+# [Project Live Link](https://pw-skill-project-assignment-5-feb.netlify.app/)
+## Technology
+- HTML
+- CSS
+## Project Image
+![Project-7](https://user-images.githubusercontent.com/113298266/224353717-77fd41fd-5662-4a71-bd52-346549010b35.png)
+
+
+
+
+
 
