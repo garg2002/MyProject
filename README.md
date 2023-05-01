@@ -68,7 +68,7 @@
 ![house-3](https://user-images.githubusercontent.com/113298266/224352095-d06125ab-eac3-46e2-bcae-3c25a89d88cb.png)
 
 
-# [Project-7](https://github.com/Veersen2001/Web-Projects/tree/master/Project-7)
+# [Project-7]
 
 ## Technology
 - HTML
