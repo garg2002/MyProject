@@ -1,5 +1,5 @@
-# [Project-1](https://github.com/Veersen2001/Web-Projects/tree/master/Project-1)
-# [Project Live Link](https://relaxed-faloodeh-5dc5f2.netlify.app)
+# [Project-1]
+
 ## Technology
 - HTML
 - CSS
@@ -7,7 +7,7 @@
 ![Restaurant](https://user-images.githubusercontent.com/113298266/224339709-9ee1c888-77bd-4c99-92b0-2d3dc6dc77fa.png)
 
 
-# [Project-2](https://github.com/Veersen2001/Web-Projects/tree/master/Project-2)
+# [Project-2]
 # [Project Live Link]()
 ## Technology
 - HTML
@@ -16,7 +16,7 @@
 ![project2](https://user-images.githubusercontent.com/113298266/224341965-627adad9-53ff-4ba1-b5ea-004a18490133.png)
 
 
-# [Project-3](https://github.com/Veersen2001/Web-Projects/tree/master/Project-3)
+# [Project-3]
 # [Project Live Link]
 ## Technology
 - HTML
@@ -26,7 +26,7 @@
 
 
 
-# [Project-4](https://github.com/Veersen2001/Web-Projects/tree/master/Project-4)
+# [Project-4]
 # [Project Live Link](https://pw-project-4-feb.netlify.app)
 ## Technology
 - HTML
@@ -35,7 +35,7 @@
 ![project3](https://user-images.githubusercontent.com/113298266/224343244-1e73d276-ec7d-458e-a608-e63d891c46e8.png)
 
 
-# [Project-5-Media Query](https://github.com/Veersen2001/Web-Projects/tree/master/Project-5)
+# [Project-5-Media Query]
 # [Project Live Link]()
 ## Technology
 - HTML
@@ -46,7 +46,7 @@
 ![media](https://user-images.githubusercontent.com/113298266/224350463-c4f98d6e-5f6a-4954-9bd9-397a623a96d7.png)
 
 
-# [Project-6](https://github.com/Veersen2001/Web-Projects/tree/master/Project-6)
+# [Project-6]
 ## Technology
 - HTML
 - CSS
