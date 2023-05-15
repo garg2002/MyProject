@@ -46,15 +46,7 @@
 ![media](https://user-images.githubusercontent.com/113298266/224350463-c4f98d6e-5f6a-4954-9bd9-397a623a96d7.png)
 
 
-# [Project-6]
 
-## Technology
-- HTML
-- CSS
-## Project Image
-## Beats
-
-![beats](https://user-images.githubusercontent.com/113298266/224351105-666b2162-f29a-4f34-b982-5c96032426d1.png)
 
 ## Multi-page
 
